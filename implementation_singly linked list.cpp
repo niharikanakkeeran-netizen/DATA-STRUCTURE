@@ -163,11 +163,7 @@ Enter the element to be inserted
 10
 Enter the element after which new to be inserted
 -1
-
 Before Insertion
-
-25
-
 -1-->
 After Insertion
 -1-->10-->
