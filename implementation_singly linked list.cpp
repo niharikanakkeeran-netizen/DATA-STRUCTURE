@@ -153,3 +153,32 @@ printf("%d-->",p->data);
 p=p->next;
 }
 }
+
+OUTPUT
+
+1.Insertion 2.Deletion 3.find 4.print 5.exit
+Enter the choice for operations
+1
+Enter the element to be inserted
+10
+Enter the element after which new to be inserted
+-1
+
+Before Insertion
+
+25
+
+-1-->
+After Insertion
+-1-->10-->
+1.Insertion 2.Deletion 3.find 4.print 5.exit
+Enter the choice for operations
+1
+Enter the element to be inserted
+20
+Enter the element after which new to be inserted
+10
+Before Insertion
+-1-->10-->
+After Insertion
+-1-->10-->20-->
