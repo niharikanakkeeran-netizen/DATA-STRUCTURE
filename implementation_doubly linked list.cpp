@@ -156,9 +156,6 @@ OUTPUT
 1.Insertion 2.Deletion 3.find 4.findprevious 5.print 6.exit
 Enter the choice for operations
 1
-
-16
-
 Enter the element to be inserted
 10
 Enter the element after which new to be inserted
